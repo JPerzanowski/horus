@@ -3,7 +3,7 @@
 ## Project Setup
 
 Project could be opened with IntelliJ IDEA. It's maven-based application 
-that requires Java 8+.
+that requires Java 10+.
 
 ## Project Run
 
